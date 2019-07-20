@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kon Translation",
-    "currentPage": "page1.html",
+    "currentPage": "19080103.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -290,7 +290,7 @@
         }
       ]
     },
-    "page1.html": {
+    "19080103.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "19080103",
